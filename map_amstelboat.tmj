@@ -2258,7 +2258,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map_second_floor.tmj#from-office"
+                         "value":"conference.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2270,7 +2270,7 @@
                 {
                  "height":32,
                  "id":19,
-                 "name":"from-2nd_floor",
+                 "name":"from-conference",
                  "properties":[
                         {
                          "name":"start",
