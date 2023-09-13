@@ -2270,7 +2270,7 @@
                 {
                  "height":32,
                  "id":19,
-                 "name":"from-conference",
+                 "name":"from-outside",
                  "properties":[
                         {
                          "name":"start",
@@ -2281,8 +2281,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":3522,
-                 "y":2882
+                 "x":3500.66666666667,
+                 "y":3246.66666666667
                 }, 
                 {
                  "height":164,
@@ -2351,19 +2351,19 @@
                 {
                  "height":85,
                  "id":22,
-                 "name":"to-conference",
+                 "name":"to-outside",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"map_outside.tmj#from-amstelboat"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":67,
-                 "x":3489,
-                 "y":3302
+                 "x":3487.66666666667,
+                 "y":3306
                 }],
          "opacity":1,
          "type":"objectgroup",
