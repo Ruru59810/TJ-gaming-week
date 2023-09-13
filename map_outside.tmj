@@ -1199,7 +1199,7 @@
                 {
                  "height":46,
                  "id":18,
-                 "name":"to-2nd-floor",
+                 "name":"to-amstelboat",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -1216,6 +1216,40 @@
                 {
                  "height":32,
                  "id":19,
+                 "name":"from-amstelboat",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2370,
+                 "y":508.666666666667
+                }, 
+                {
+                 "height":144.936815389246,
+                 "id":22,
+                 "name":"to-first floor",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"map_first_floor.tmj#from-outside"
+                        }],
+                 "rotation":359.734803989401,
+                 "type":"area",
+                 "visible":true,
+                 "width":148.162428069106,
+                 "x":1448.0003766143,
+                 "y":2806.35095757499
+                }, 
+                {
+                 "height":32,
+                 "id":23,
                  "name":"from-conference",
                  "properties":[
                         {
@@ -1227,25 +1261,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":1160.66666666667,
-                 "y":-564.666666666667
-                }, 
-                {
-                 "height":85,
-                 "id":22,
-                 "name":"to-conference",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"conference.tmj#from-office"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":67,
-                 "x":1331.66666666667,
-                 "y":-695.333333333333
+                 "x":1489.33333333333,
+                 "y":3025.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1486,7 +1503,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
