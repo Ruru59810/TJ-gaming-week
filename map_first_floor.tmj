@@ -2356,7 +2356,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map_outside.tmj#from-2nd_floor"
+                         "value":"map_outside.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
