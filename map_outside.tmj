@@ -1229,6 +1229,40 @@
                  "width":32,
                  "x":1489.33333333333,
                  "y":3025.33333333333
+                }, 
+                {
+                 "height":32,
+                 "id":24,
+                 "name":"from-Amstelboat",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":2364,
+                 "y":489
+                }, 
+                {
+                 "height":64.7019752613846,
+                 "id":25,
+                 "name":"to-amstelboat",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"map_amstelboat.tmj#from-outside"
+                        }],
+                 "rotation":359.735,
+                 "type":"area",
+                 "visible":true,
+                 "width":97.5325539710948,
+                 "x":2331.919,
+                 "y":377.5315
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1469,7 +1503,7 @@
          "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":24,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
