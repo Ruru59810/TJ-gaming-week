@@ -1197,40 +1197,6 @@
                  "y":-560
                 }, 
                 {
-                 "height":46,
-                 "id":18,
-                 "name":"to-amstelboat",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"map_amstelboat.tmj#from-outside"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":89.3333333333335,
-                 "x":2341.33333333333,
-                 "y":391.333333333333
-                }, 
-                {
-                 "height":32,
-                 "id":19,
-                 "name":"from-amstelboat",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32,
-                 "x":2370,
-                 "y":508.666666666667
-                }, 
-                {
                  "height":144.936815389246,
                  "id":22,
                  "name":"to-first floor",
