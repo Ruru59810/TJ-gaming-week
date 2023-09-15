@@ -1204,7 +1204,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map_first_floor.tmj#from-outside"
+                         "value":"\/@\/triple-jump\/fund-administration-climate\/office#from-outside"
                         }],
                  "rotation":359.734803989401,
                  "type":"area",
@@ -1255,7 +1255,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map_amstelboat.tmj#from-outside"
+                         "value":"\/@\/triple-jump\/fund-administration-climate\/amstelboat#from-outside"
                         }],
                  "rotation":359.735,
                  "type":"area",

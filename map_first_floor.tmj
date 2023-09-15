@@ -2258,7 +2258,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map_second_floor.tmj#from-office"
+                         "value":"\/@\/triple-jump\/fund-administration-climate\/office-second-floor#from-office"
                         }],
                  "rotation":0,
                  "type":"area",

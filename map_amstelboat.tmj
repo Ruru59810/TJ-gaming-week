@@ -446,7 +446,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/@\/triple-jump\/fund-administration-climate\/amstelboat#from-amstelboat"
+                         "value":"\/@\/triple-jump\/fund-administration-climate\/outside#from-amstelboat"
                         }],
                  "rotation":359.735,
                  "type":"area",
