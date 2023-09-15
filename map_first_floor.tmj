@@ -2356,7 +2356,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map_outside.tmj#from-office"
+                         "value":"\/@\/triple-jump\/fund-administration-climate\/outside#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
