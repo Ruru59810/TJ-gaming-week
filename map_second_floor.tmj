@@ -2209,7 +2209,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom 1"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2275,7 +2275,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom 3"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2307,7 +2307,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoom 2"
                         }, 
                         {
                          "name":"jitsiTrigger",
